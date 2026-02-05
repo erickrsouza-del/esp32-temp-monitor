@@ -6,7 +6,7 @@ O **SmartFridge Guard** é um sistema de monitoramento de temperatura e umidade 
 
 ## 📸 Demonstração
 
-![Dashboard do Projeto](./image/IMG_20260204_213347416_PCT.jpg)
+![Dashboard do Projeto](manitoramento_temp/image/IMG_20260204_213347416_PCT.jpg)
 *Visualização do hardware e interface do sistema.*
 
 ---
@@ -78,3 +78,4 @@ manitoramento_temp/
 
 ## 👤 Autor
 Desenvolvido como parte do projeto **SmartFridge Guard**.
+
